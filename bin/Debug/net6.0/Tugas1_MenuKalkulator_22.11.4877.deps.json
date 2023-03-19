@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tugas1_MenuKalkulator_22.11.4877/1.0.0": {
+        "runtime": {
+          "Tugas1_MenuKalkulator_22.11.4877.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas1_MenuKalkulator_22.11.4877/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

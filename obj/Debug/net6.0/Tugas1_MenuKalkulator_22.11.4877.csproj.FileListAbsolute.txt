@@ -1,0 +1,15 @@
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\bin\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.exe
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\bin\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.deps.json
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\bin\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.runtimeconfig.json
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\bin\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.dll
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\bin\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.pdb
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.csproj.AssemblyReference.cache
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.AssemblyInfoInputs.cache
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.AssemblyInfo.cs
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.dll
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\refint\Tugas1_MenuKalkulator_22.11.4877.dll
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.pdb
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\Tugas1_MenuKalkulator_22.11.4877.genruntimeconfig.cache
+D:\AMIKOM\Pemrograman\Tugas1_MenuKalkulator_22.11.4877\Tugas1_MenuKalkulator_22.11.4877\obj\Debug\net6.0\ref\Tugas1_MenuKalkulator_22.11.4877.dll
